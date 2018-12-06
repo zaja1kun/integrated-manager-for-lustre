@@ -40,3 +40,4 @@ python-iml-manager.spec
 localenv
 storage_server.repo
 copr-local.mk
+target
